@@ -34,5 +34,7 @@ const sumAll = function(a, b) {
     }
 };
 
+// could have used addition assignment operator (+=) in the loop instead of reduce for shorter code
+
 // Do not edit below this line
 module.exports = sumAll;
