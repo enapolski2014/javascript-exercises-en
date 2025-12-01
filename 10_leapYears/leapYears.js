@@ -15,6 +15,7 @@ const leapYears = function(year) {
 
 };
 
+// use constants and % operator as filters instead per -solution.js
 
 console.log(leapYears(1996))
 
